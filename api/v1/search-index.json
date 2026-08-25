@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "display-panels": {
+      "id": "display-panels",
+      "name": "Display Panel Types",
+      "status": "scaffold",
+      "source": "Reference compilation"
+    }
+  },
+  "searchableFields": []
+}
